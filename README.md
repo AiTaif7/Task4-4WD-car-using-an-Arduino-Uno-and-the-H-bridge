@@ -1,0 +1,1 @@
+The 4WD car project involves building a small vehicle using an Arduino Uno and an H-bridge. The Arduino controls the motors through the H-bridge circuit, allowing for independent control of each wheel.
